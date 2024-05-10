@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Final Board Configurations
 
-This is a Python program that calculates the number of possible final board configurations in a game of Tic-Tac-Toe, where all cells are filled, and no player has won.
+This Python program calculates the number of possible final board configurations in a game of Tic-Tac-Toe, where all cells are filled, and no player has won. It considers six cases: one achievable after exactly 5, 6, 7, 8, 9 moves with a winner, and the ties where after 9 moves there are still no three in a row by either player.
 
 ## Prerequisites
 
